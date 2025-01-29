@@ -127,9 +127,9 @@ author:
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/wisutp/"
-    - label: "Download CV"
+    - label: "Download Resume"
       icon: "fa-solid fa-file-pdf"
-      url: "/assets/files/wisut-cv-12-2024.pdf"
+      url: "/assets/files/Wisut_Resume.pdf"
 
 # Site Footer
 footer:
