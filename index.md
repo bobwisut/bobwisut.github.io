@@ -27,7 +27,7 @@ I am a game developer with experience in Unity and Cocos Creator. I love buildin
 ## Projects
 {% include feature_row type="left" %}
 
-## Technical Skills
+## Tech Stack
 <span style="display: inline-block; padding: 1px 6px; margin: 5px 2px; border: 2px solid #000000; color: #000000; border-radius: 5px; font-weight: bold; font-size: 20px;">
 Unity
 </span>
