@@ -35,6 +35,12 @@ Unity
 C#
 </span>
 <span style="display: inline-block; padding: 1px 6px; margin: 5px 2px; border: 2px solid #000000; color: #000000; border-radius: 5px; font-weight: bold;font-size: 20px;">
+Typescript
+</span>
+<span style="display: inline-block; padding: 1px 6px; margin: 5px 2px; border: 2px solid #000000; color: #000000; border-radius: 5px; font-weight: bold;font-size: 20px;">
+Python
+</span>
+<span style="display: inline-block; padding: 1px 6px; margin: 5px 2px; border: 2px solid #000000; color: #000000; border-radius: 5px; font-weight: bold;font-size: 20px;">
 VFX Graph
 </span>
 <span style="display: inline-block; padding: 1px 6px; margin: 5px 2px; border: 2px solid #000000; color: #000000; border-radius: 5px; font-weight: bold;font-size: 20px;">

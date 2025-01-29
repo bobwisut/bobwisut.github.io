@@ -32,6 +32,7 @@ A cozy game where players care for their cat, who goes on trips to famous touris
 - Assisting in the data system setup.
 - Creating the in-game mobile chat system for travel events using Yarn Spinner.
 - Helping designers set up an efficient workflow for creating dialogues with Yarn Spinner.
+- Implementing a debug system to assist in game development.
 
 ### In-Game Gameplay:
 {% include gallery %}
