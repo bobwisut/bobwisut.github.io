@@ -1,11 +1,13 @@
 ---
+title: "Afterlife Express"
 layout: single
 author_profile: true
 permalink: /afterlife-express/
 ---
-
-# Afterlife Express
-{% include figure popup=true image_path="/assets/images/projects-images/afterlife-express-full-image.png" caption="A narrative decision-making prototype where players, working for a mysterious company, judge the fates of souls based on their information and stories." %}
+<br>
+![Afterlife Express](/assets/images/projects-images/afterlife-express-full-image.png)
+<br>
+A narrative decision-making prototype where players, working for a mysterious company, judge the fates of souls based on their information and stories.
 
 ### Key Features:
 - Encounter passengers and evaluate their fates.

@@ -1,4 +1,5 @@
 ---
+title: "About Me"
 layout: single
 author_profile: true
 feature_row:
@@ -21,8 +22,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--info"
 ---
-
-# About Me
 I am a game developer with experience in Unity and Cocos Creator. I love building systems and tools that make games fun and engaging for players. I enjoy creating features that are polished, practical, and bring creative ideas to life in games. I’m also passionate about shaders and VFX, which let me add a creative touch to the projects I work on.
 
 ## Projects

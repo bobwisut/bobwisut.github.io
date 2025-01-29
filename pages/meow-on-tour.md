@@ -1,4 +1,5 @@
 ---
+title: "Meow on Tour"
 layout: single
 author_profile: true
 permalink: /meow-on-tour/
@@ -12,9 +13,10 @@ gallery:
   - url: /assets/images/meow-on-tour-gifs/meow-on-tour-05.gif
     image_path: /assets/images/meow-on-tour-gifs/meow-on-tour-05.gif
 ---
-
-# Meow on Tour
-{% include figure popup=true image_path="/assets/images/projects-images/meow-on-tour-logo.png" caption="A cozy game where players care for their cat, who goes on trips to famous tourist attractions after being fed and returns with souvenirs and diary entries from its adventures." %}
+<br>
+![Meow on Tour](/assets/images/projects-images/meow-on-tour-logo.png)
+<br>
+A cozy game where players care for their cat, who goes on trips to famous tourist attractions after being fed and returns with souvenirs and diary entries from its adventures.
 
 ### Key Features:
 - Raise and care for a cat by feeding and petting it.

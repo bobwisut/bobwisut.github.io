@@ -1,4 +1,5 @@
 ---
+title: "Evil Soul"
 layout: single
 author_profile: true
 permalink: /evil-soul/
@@ -53,8 +54,10 @@ gallery:
     image_path: /assets/images/evil-soul-gifs/weapon05.gif
 
 ---
-# Evil Soul
-{% include figure popup=true image_path="/assets/images/projects-images/evil-soul-banner.png" caption="A dark fantasy idle RPG focused on upgrading equipment and character growth." %}
+<br>
+![Evil Soul](/assets/images/projects-images/evil-soul-banner.png)
+<br>
+A dark fantasy idle RPG focused on upgrading equipment and character growth.
 
 ### Key Features:
 - Offline progression with rewards earned even when players are not active.
